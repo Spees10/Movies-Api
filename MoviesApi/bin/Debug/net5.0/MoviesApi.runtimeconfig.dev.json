@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Spees\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Spees\\.nuget\\packages"
+    ]
+  }
+}
